@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JosueStoreGo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_title">Make \nYour Style \nCome \nTrue Here</string>
+    <string name="go">GO</string>
+    <string name="que_estas_buscando">¿Qué estás buscando?</string>
+    <string name="recomendacion">Recomendacion</string>
+    <string name="total_price">Precio Total</string>
+    <string name="select_color">Seleccionar Color</string>
+    <string name="select_size">Seleccionar tamaño</string>
+    <string name="buy_now">Comprar Ahora</string>
+    <string name="title">Titulo</string>
+</resources>

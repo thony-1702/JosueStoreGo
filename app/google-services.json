@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068566402938",
+    "firebase_url": "https://js-go-7f761-default-rtdb.firebaseio.com",
+    "project_id": "js-go-7f761",
+    "storage_bucket": "js-go-7f761.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068566402938:android:f942a2f1ff4130aa1c28c3",
+        "android_client_info": {
+          "package_name": "app.ecommerce.josuestorego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068566402938-4kkqkdt467h8k2b7892psmtp5i4beouq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ecommerce.josuestorego",
+            "certificate_hash": "643293f4ef76e53be772358ab16e44f7ce1dd950"
+          }
+        },
+        {
+          "client_id": "1068566402938-opgtvrbprlfustpsgcd0vtda8erbpev1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMyDQkTZM2AqYiEFptK32ikPexnbCw4YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068566402938-opgtvrbprlfustpsgcd0vtda8erbpev1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
